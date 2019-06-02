@@ -3,7 +3,7 @@ layout:     post
 title:      "OpenSSL Create Certificate"
 date:       2019-06-02
 author:     "YouYou"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/cyber-security.jpg"
 tags:
     - java
     - security

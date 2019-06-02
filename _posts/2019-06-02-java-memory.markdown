@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Java内存模型"
+title:      "Java Memory"
 date:       2019-06-02
 author:     "YouYou"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/books-coding-couch.jpg"
 tags:
     - java
 ---
